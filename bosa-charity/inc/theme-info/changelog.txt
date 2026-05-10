@@ -1,3 +1,9 @@
+= 1.0.4 =
+* PHP 8.5 compatibility update.
+* WordPress 6.9 compatibility update.
+* Kirki customizer repeater issue fixed.
+* Theme style updated.
+
 = 1.0.3 =
 * Style issue fixed.
 

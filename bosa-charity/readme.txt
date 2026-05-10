@@ -3,8 +3,8 @@ Contributors: keonthemes
 Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
 Requires at least: 4.7
 Requires PHP: 5.5
-Tested up to: 6.0
-Stable tag: 1.0.3
+Tested up to: 6.9
+Stable tag: 1.0.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -27,6 +27,12 @@ Bosa Charity is multipurpose charity theme. Bosa Charity is beautiful, fast, lig
 Bosa Charity includes support for WooCommerce, Elementor, Breadcrumb NavXT and Contact From 7.
 
 == Changelog ==
+
+= 1.0.4 =
+* PHP 8.5 compatibility update.
+* WordPress 6.9 compatibility update.
+* Kirki customizer repeater issue fixed.
+* Theme style updated.
 
 = 1.0.3 =
 * Style issue fixed.
